@@ -1,7 +1,7 @@
 # OSS1_lab2dvcs
 Lab2 week 1
 Contributing
-Please submit bug reports, suggestions and pull requests to the GitHub issue tracker.
+Please submit bug reports, suggestions and pull requests to the [GitHub issue tracker](google.com).
 
 We're particularly interested in fixing edge-cases, expanding test coverage and updating translations.
 
